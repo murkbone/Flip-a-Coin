@@ -4,6 +4,7 @@
 
 ### **created by ritz (@enfier)**
 
+
 It's a game about flipping a coin. Not much else.
 
 You can get heads, tails or a secret stalemate option.
