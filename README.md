@@ -2,4 +2,4 @@
 
 **An experimental tech demo about, you guessed it, flipping a coin**
 
-**created by ritz (@enfier)
+**created by ritz (@enfier)**
